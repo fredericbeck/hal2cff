@@ -22,7 +22,7 @@ text_url = widgets.Text(
 
 # +
 run_button = widgets.Button(
-    description='Run cal2cff',
+    description='Run hal2cff',
     disabled=False,
     button_style='', # 'success', 'info', 'warning', 'danger' or ''
     tooltip='Run',
@@ -36,5 +36,7 @@ run_button.on_click(convert_hal_to_cff)
 display(widgets.HBox([text_url, run_button]))
 output = widgets.Output()
 display(output)
+
+
 
 
