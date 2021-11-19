@@ -1,6 +1,6 @@
 # hal2cff
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rprimet/hal2cff/main?urlpath=%2Fvoila%2Frender%2Fexamples%2Fbasic_ui.py)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/fredericbeck/hal2cff/tutotechno?labpath=my_ui.py)
 
 Want to add a [CITATION.cff](https://citation-file-format.github.io/) file to your repository? Already have a publication in [HAL](https://hal.archives-ouvertes.fr)?
 `hal2cff` will attempt to draft a citation file from the HAL document metadata.
